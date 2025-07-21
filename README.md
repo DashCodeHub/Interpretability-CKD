@@ -1,15 +1,6 @@
-# Explaining Deep Learning Predictions for Chronic
+# Explaining Deep Learning Predictions for Chronic Kidney Disease Using Neuro-Symbolic AI
 
-# Kidney Disease Using Neuro-Symbolic AI
 
-## Priyabrata Dash
-
-```
-University of Texas at San Antonio
-```
-```
-February 25, 2025
-```
 ## 1 Introduction
 
 Explainability is a critical aspect of AI in medical predictions, where trust and interpretability are essential for clinical
