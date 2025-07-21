@@ -23,12 +23,12 @@ This project aims to:
 
 ## 3 Methodology
 
-## 3.1 Dataset and Preprocessing
+#### 3.1 Dataset and Preprocessing
 
 The CKD dataset will be preprocessed to handle missing values, normalize features, and encode categorical variables
 appropriately.
 
-## 3.2 Deep Learning Model
+#### 3.2 Deep Learning Model
 
 A neural network will be implemented using TensorFlow/PyTorch. Experiments will be conducted to test different
 architectures and configurations, including:
@@ -37,7 +37,7 @@ architectures and configurations, including:
 - Activation functions and optimization strategies.
 - Regularization techniques to improve generalization.
 
-## 3.3 Neuro-Symbolic AI for Explainability
+#### 3.3 Neuro-Symbolic AI for Explainability
 
 To enhance interpretability, symbolic AI methods will be incorporated to extract human-understandable rules from the
 trained neural network. This will allow a structured reasoning process for CKD classification decisions.
